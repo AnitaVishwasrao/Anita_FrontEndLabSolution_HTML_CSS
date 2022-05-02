@@ -47,10 +47,10 @@ body {
 }
 
 #bar-30 {
-    animation-name: fillbar1;
+    animation-name: fillbar-30;
 }
 
-@keyframes fillbar1 {
+@keyframes fillbar-30 {
     from {
         background-color: white;
         height: 0%;
@@ -63,10 +63,10 @@ body {
 }
 
 #bar-40 {
-    animation-name: fillbar2;
+    animation-name: fillbar-40;
 }
 
-@keyframes fillbar2 {
+@keyframes fillbar-40 {
     from {
         background-color: white;
         height: 0%;
@@ -79,10 +79,10 @@ body {
 }
 
 #bar-80 {
-    animation-name: fillbar3;
+    animation-name: fillbar-80;
 }
 
-@keyframes fillbar3 {
+@keyframes fillbar-80 {
     from {
         background-color: white;
         height: 0%;
